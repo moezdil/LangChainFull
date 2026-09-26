@@ -12,7 +12,7 @@ Standalone, runnable examples covering core LangChain concepts from scratch. Eac
 
 **1. Clone and enter the repo:**
 ```bash
-git clone https://github.com/mesutoezdil/LangChainFull.git
+git clone https://github.com/moezdil/LangChainFull.git
 cd LangChainFull
 ```
 
